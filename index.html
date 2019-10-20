@@ -19,10 +19,11 @@
   <section class="section">
     <div class="container">
       <h1 class="title">Chuck Norris Jokes</h1>
-      <p>Reload for another joke!</p>
 
       <div class="content" id="chuck-norris">
       </div>
+
+      <button id="reload">I want an other fact !</button>
     </div>
 
   </section>
@@ -47,6 +48,8 @@
     }
 
     fetchFactsJSON();
+
+    document.getElementById('reload').addEventListener('click', fetchFactsJSON);
   </script>
 </body>
 
