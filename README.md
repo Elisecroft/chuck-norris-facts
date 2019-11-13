@@ -10,8 +10,8 @@ You can use it at this link : https://elisecroft.github.io/chuck-norris-facts/
 
 ## Built with
 
-[Native JavaScript](https://en.wikipedia.org/wiki/JavaScript) - My programming language
-[axios](https://www.npmjs.com/package/axios) - A module to get API informations
+[Native JavaScript](https://en.wikipedia.org/wiki/JavaScript) - My programming language  
+[axios](https://www.npmjs.com/package/axios) - A module to get API informations  
 [churcknorris.io](https://api.chucknorris.io/) - An API who give some Chuck Norris facts
 
 ## Author
